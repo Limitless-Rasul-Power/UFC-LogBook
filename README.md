@@ -1,2 +1,2 @@
-# UFC-Logbook
+# UFC-LogBook
 We have monsters :)
